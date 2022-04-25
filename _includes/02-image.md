@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Digital Innovation One Aceleração Global Dev #16 Capgemini](https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/244742796_3010980659231577_3613854426763473730_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFKvhv9jzgIhK4CZbjaoVkTgmy-Mt35822CbL4y3fnzbceocRbv9xyshN2_64JQhP71s1zmfYYdBGcZP66MX0JD&_nc_ohc=3CVxPYDB6dwAX-MgNBr&_nc_oc=AQkf9vD3va-2OczjsRrEKhN41W1H05uL9Ko-ULPcUzIcluGEiTPZWXivtrvTwpmQmRk&_nc_ht=scontent-gru1-2.xx&oh=00_AT-PYGUjZ-DOLNcXijD0maI4TqrX-BPIraQR7AXoG8oi7Q&oe=626B7AA7)
