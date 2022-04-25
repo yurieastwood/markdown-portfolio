@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Favorite Books
+- Clean Code
+- The Clean Coder
+- Clean Architecture
